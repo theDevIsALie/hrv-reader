@@ -1,0 +1,7 @@
+voxel_at 0 0 0 with_rgba 255 0 0 255
+voxel_at 0 1 0 with_rgba 255 0 0 255
+voxel_at 0 2 0 with_rgba 255 0 0 255
+voxel_at 0 3 0 with_rgba 255 0 0 255
+voxel_at 0 3 1 with_rgba 255 0 0 255
+voxel_at 0 3 2 with_rgba 255 0 0 255
+voxel_at 0 3 3 with_rgba 255 0 0 255
