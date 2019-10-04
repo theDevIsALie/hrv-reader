@@ -51,7 +51,9 @@ Slide the arrow on the side of the Blender viewport to the left until a menu app
 ![alt text](https://i.imgur.com/6RKT54s.png "Side menu")
 
 Click the "HRV" button on the side menu:
-![alt text](https://i.imgur.com/NECWmUs.png "HRV button")
+<p align="center">
+  <img src="https://i.imgur.com/NECWmUs.png">
+ </p>
 
 Now, you will see a button titled "Import HRV", click on the button and select your **.hrv** file !
 
