@@ -20,7 +20,9 @@ voxel_at 0 0 0 with_rgba 255 0 0 255
 ```
 If your import this HRV into Blender with the add-on, it will create a red cube at the 0x, 0y, 0z position !
 This is the result:
-![alt text](https://i.imgur.com/L2wSTJY.png "Our red cube")
+<p align="center">
+  <img src="https://i.imgur.com/L2wSTJY.png">
+ </p>
 
 
 This is how it works:
@@ -44,11 +46,15 @@ voxel_at 0 0 2 with_rgba 100 200 100 255
 voxel_at 0 0 3 with_rgba 100 100 200 255
 ```
 This is the result:
-![alt text](https://i.imgur.com/w6JLMIR.png "Multiple voxels")
+<p align="center">
+  <img src="https://i.imgur.com/w6JLMIR.png">
+ </p>
 
 ## How to import an HRV file ?
 Slide the arrow on the side of the Blender viewport to the left until a menu appear:
-![alt text](https://i.imgur.com/6RKT54s.png "Side menu")
+<p align="center">
+  <img src="https://i.imgur.com/6RKT54s.png">
+ </p>
 
 Click the "HRV" button on the side menu:
 <p align="center">
