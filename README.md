@@ -7,7 +7,7 @@ It's a simple file format that I created for my personnal projects, I didn't fou
 
 ## How to install the HRV add-on ?
 Simply install the add-on from this link: [MediaFire](http://www.mediafire.com/file/i55wq66mlkvihnp/hrv_reader001build.zip/file)
-Or you simply create a ZIP with the content of this repository.
+Or you can simply create a ZIP with the content of this repository.
 Then go on Blender, click "Edit > Preferences > Install", click on the "Install" button and select the ZIP file.
 The add-on should now be installed !
 
